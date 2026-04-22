@@ -5,7 +5,7 @@
 - 더그리트(The Greet) 개발팀 인턴
 - Computer Vision / Cloud / AI에 관심이 많습니다
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
