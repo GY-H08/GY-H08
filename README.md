@@ -1,6 +1,6 @@
 # 한규영 | AI Engineer
 
-**인공지능융합학부 4학년 · 더그리트(The Greet) 플랫폼팀 인턴**  
+**인공지능융합학부 4학년 · 더그리트(The Greet) 개발팀 인턴**  
 Computer Vision · Backend · Cloud에 관심이 많습니다
 
 ---
@@ -82,7 +82,7 @@ C# WinForms + MySQL 기반 데스크톱 운동 트래킹 애플리케이션.
 
 ## 🎓 Education & Coursework
 - 삼육대학교 인공지능융합학부 4학년
-- 신경모방 컴퓨팅(Neuromorphic Computing), 클라우드 컴퓨팅 등 관련 교과 이수
+- 딥러닝,신경모방 컴퓨팅(Neuromorphic Computing), 클라우드 컴퓨팅 등 관련 교과 이수
 
 ---
 
