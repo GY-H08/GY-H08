@@ -1,6 +1,6 @@
 # 한규영 | AI Engineer
 
-**인공지능융합학부 4학년 · 더그리트(The Greet) 개발팀 인턴**  
+**인공지능융합학부 4학년 · 前 더그리트(The Greet) 개발팀 인턴**  
 Computer Vision · Backend · Cloud에 관심이 많습니다
 
 ---
